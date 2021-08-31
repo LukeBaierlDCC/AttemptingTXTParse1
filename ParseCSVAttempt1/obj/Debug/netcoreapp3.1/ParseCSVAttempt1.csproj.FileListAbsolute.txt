@@ -1,0 +1,13 @@
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\bin\Debug\netcoreapp3.1\ParseCSVAttempt1.exe
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\bin\Debug\netcoreapp3.1\ParseCSVAttempt1.deps.json
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\bin\Debug\netcoreapp3.1\ParseCSVAttempt1.runtimeconfig.json
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\bin\Debug\netcoreapp3.1\ParseCSVAttempt1.runtimeconfig.dev.json
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\bin\Debug\netcoreapp3.1\ParseCSVAttempt1.dll
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\bin\Debug\netcoreapp3.1\ParseCSVAttempt1.pdb
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\obj\Debug\netcoreapp3.1\ParseCSVAttempt1.csprojAssemblyReference.cache
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\obj\Debug\netcoreapp3.1\ParseCSVAttempt1.AssemblyInfoInputs.cache
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\obj\Debug\netcoreapp3.1\ParseCSVAttempt1.AssemblyInfo.cs
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\obj\Debug\netcoreapp3.1\ParseCSVAttempt1.csproj.CoreCompileInputs.cache
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\obj\Debug\netcoreapp3.1\ParseCSVAttempt1.dll
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\obj\Debug\netcoreapp3.1\ParseCSVAttempt1.pdb
+C:\Users\lukee\Desktop\CSharp Projects\ParseCSVAttempt1\ParseCSVAttempt1\ParseCSVAttempt1\obj\Debug\netcoreapp3.1\ParseCSVAttempt1.genruntimeconfig.cache
